@@ -1,0 +1,14 @@
+C:\Users\joshua\source\repos\Sistema_de_ventas(por capas)\BLL(Bussines_Logic_Layer)\bin\Debug\BLL(Bussines_Logic_Layer).dll
+C:\Users\joshua\source\repos\Sistema_de_ventas(por capas)\BLL(Bussines_Logic_Layer)\bin\Debug\BLL(Bussines_Logic_Layer).pdb
+C:\Users\joshua\source\repos\Sistema_de_ventas(por capas)\BLL(Bussines_Logic_Layer)\bin\Debug\DAL(Data_Layer).dll
+C:\Users\joshua\source\repos\Sistema_de_ventas(por capas)\BLL(Bussines_Logic_Layer)\bin\Debug\MySql.Data.dll
+C:\Users\joshua\source\repos\Sistema_de_ventas(por capas)\BLL(Bussines_Logic_Layer)\bin\Debug\Google.Protobuf.dll
+C:\Users\joshua\source\repos\Sistema_de_ventas(por capas)\BLL(Bussines_Logic_Layer)\bin\Debug\Renci.SshNet.dll
+C:\Users\joshua\source\repos\Sistema_de_ventas(por capas)\BLL(Bussines_Logic_Layer)\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\joshua\source\repos\Sistema_de_ventas(por capas)\BLL(Bussines_Logic_Layer)\bin\Debug\DAL(Data_Layer).pdb
+C:\Users\joshua\source\repos\Sistema_de_ventas(por capas)\BLL(Bussines_Logic_Layer)\bin\Debug\MySql.Data.xml
+C:\Users\joshua\source\repos\Sistema_de_ventas(por capas)\BLL(Bussines_Logic_Layer)\obj\Debug\BLL(Bussines_Logic_Layer).csproj.CoreCompileInputs.cache
+C:\Users\joshua\source\repos\Sistema_de_ventas(por capas)\BLL(Bussines_Logic_Layer)\obj\Debug\BLL(Bussines_Logic_Layer).csproj.CopyComplete
+C:\Users\joshua\source\repos\Sistema_de_ventas(por capas)\BLL(Bussines_Logic_Layer)\obj\Debug\BLL(Bussines_Logic_Layer).dll
+C:\Users\joshua\source\repos\Sistema_de_ventas(por capas)\BLL(Bussines_Logic_Layer)\obj\Debug\BLL(Bussines_Logic_Layer).pdb
+C:\Users\joshua\source\repos\Sistema_de_ventas(por capas)\BLL(Bussines_Logic_Layer)\obj\Debug\BLL(Bussines_Logic_Layer).csprojAssemblyReference.cache
